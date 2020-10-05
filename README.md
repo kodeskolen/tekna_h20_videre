@@ -10,6 +10,8 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 * Kompedie for Monte Carlo estimering av π er [her](https://github.com/kodeskolen/tekna_h20_videre/blob/master/dag1/pi_estimering_kompedie.pdf)
 * Et hefte med bonusoppgaver er å finne [her](https://github.com/kodeskolen/tekna_h20_videre/blob/master/dag1/oppgaver_bonus.pdf)
 
+### Dag 2
+* En video om hvordan dere laster ned materiale og starter Jupyter Notebook finner dere [her](https://www.youtube.com/watch?v=N5hkBe9xeNU)
 
 ## Kursets innhold:
 Kurset vil passe for deg som deltok på vårt forrige kurs eller som har noe programmeringserfaring fra før. Vi ønsker at du skal få mer trening i å programmere, og få ideer til hvordan lage undervisningsopplegg som utforsker og løser problemstillinger innenfor realfagene.
