@@ -7,8 +7,10 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 ## Materiale
 ### Dag 1
 * Oppgaver for dag 1 finner du [her](https://github.com/kodeskolen/tekna_h20_videre/blob/master/dag1/oppgaver_dag1.pdf)
+* Løsningsforslag til dag 1 oppgavene finner du [her](https://github.com/kodeskolen/tekna_h20_videre/blob/master/dag1/oppgaver_dag1_losningsforslag.pdf)
 * Kompedie for Monte Carlo estimering av π er [her](https://github.com/kodeskolen/tekna_h20_videre/blob/master/dag1/pi_estimering_kompedie.pdf)
 * Et hefte med bonusoppgaver er å finne [her](https://github.com/kodeskolen/tekna_h20_videre/blob/master/dag1/oppgaver_bonus.pdf)
+* Løsningsforslag til bonusoppgavene finner du [her](https://github.com/kodeskolen/tekna_h20_videre/blob/master/dag1/oppgaver_bonus_losningsforslag.pdf)
 
 ### Dag 2
 * En video om hvordan dere laster ned materiale og starter Jupyter Notebook finner dere [her](https://www.youtube.com/watch?v=N5hkBe9xeNU)
