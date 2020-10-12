@@ -14,6 +14,8 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 
 ### Dag 2
 * En video om hvordan dere laster ned materiale og starter Jupyter Notebook finner dere [her](https://www.youtube.com/watch?v=N5hkBe9xeNU)
+* Hvis du arbeider med filer lokalt på din egen maskin finner du notatbøkene vi arbeider med [her](https://github.com/kodeskolen/tekna_h20_videre/tree/master/dag2/notebooks)
+* Hvis du arbeider på Google Colab finner du notatbøkene vi arbeider med [her](https://github.com/kodeskolen/tekna_h20_videre/tree/master/dag2/google_colab)
 
 ## Kursets innhold:
 Kurset vil passe for deg som deltok på vårt forrige kurs eller som har noe programmeringserfaring fra før. Vi ønsker at du skal få mer trening i å programmere, og få ideer til hvordan lage undervisningsopplegg som utforsker og løser problemstillinger innenfor realfagene.
